@@ -13,4 +13,3 @@ merge test
 >>>>>>> feature/1219
 스테시스테시
 cherrypick 당할 것
-ㅇㅇㅇ
